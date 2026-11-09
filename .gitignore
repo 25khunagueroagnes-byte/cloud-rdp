@@ -1,0 +1,14 @@
+# Sensitive and local files - STRICT PROTECTION
+*.env
+*.key
+*.log
+*.txt
+*.bat
+*.ps1
+*.rdp
+*.exe
+*.msi
+*.json
+credentials.txt
+secrets.json
+*Download.bat*
